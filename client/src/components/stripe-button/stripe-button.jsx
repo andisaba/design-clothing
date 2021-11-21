@@ -24,6 +24,7 @@ const onToken = token => {
   });
 };
 
+
   return (
     <StripeCheckout 
       label='Pay Now'
