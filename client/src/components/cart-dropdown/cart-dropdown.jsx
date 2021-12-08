@@ -35,4 +35,4 @@ const CartDropdown = () => {
   </div>
 )};
 
-export default CartDropdown;
+export default React.memo(CartDropdown);

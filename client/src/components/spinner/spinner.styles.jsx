@@ -1,4 +1,3 @@
-//file not needed as it has been moved to ../spinner/spinner.styles.jsx to take advantage of Code splitting with React lazy & Suspense
 import styled from 'styled-components';
 
 export const SpinnerOverlay = styled.div`
