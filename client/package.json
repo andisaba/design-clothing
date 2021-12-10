@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.24.0",
     "compression": "^1.7.4",
+    "express-sslify": "^1.2.0",
     "firebase": "^8.7.1",
     "lodash.memoize": "^4.1.2",
     "node-sass": "^6.0.1",
