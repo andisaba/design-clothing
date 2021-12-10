@@ -10,7 +10,6 @@ import * as serviceWorker from './serviceWorker';
 import './index.css';
 import App from './App';
 
-
 // import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 // import reportWebVitals from './reportWebVitals';
 
