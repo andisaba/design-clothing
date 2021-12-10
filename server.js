@@ -18,7 +18,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 
 if (process.env.NODE_ENV === 'production') {
-  app.use(compression);  /* located here for production*/
+  // app.use(compression);  /* located here for production*/
   app.use(enforce.HTTPS({ trustProtoHeader: true })); /* located here for production*/
   app.use(express.static(path.join(__dirname, 'client/build')));
 
